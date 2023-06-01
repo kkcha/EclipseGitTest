@@ -1,4 +1,3 @@
-package src;
 
 public class Join {
 	public void join() {
