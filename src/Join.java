@@ -1,6 +1,6 @@
 public class Join {
 	public void join() {
-		System.out.println("È¸¿ø °¡ÀÔ ¿Ï·á");
-		System.out.println("¼º°øÀû");
+		System.out.println("회원가입 구현 완료");
+		System.out.println("성공적");
 	}
 }

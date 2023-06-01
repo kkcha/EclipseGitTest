@@ -1,9 +1,12 @@
 
 public class TestMain {
 
+	public TestMain() {
+		
+	}
 	public static void main(String[] args) {
 		
-		System.out.println("Main ÇÁ·Î±×·¥ ½ÇÇàÁß...");
+		System.out.println("Main í…ŒìŠ¤íŠ¸ ì„±ê³µ...?");
 
 	}
 
